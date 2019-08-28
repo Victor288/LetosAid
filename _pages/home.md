@@ -8,8 +8,7 @@ permalink: http://letosaid.tk/
 published: true
 post_date: 2018-11-27 09:16:54
 ---
-<h2>Leto's Aid
-</h2>		
+<h2>Leto's Aid</h2>		
 			<h2>Introducing Leto's Aid</h2>		
 		https://youtu.be/B8pnzX6HoDM		
 			<a href="#top" role="button">
