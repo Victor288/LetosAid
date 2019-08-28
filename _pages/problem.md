@@ -1,8 +1,9 @@
 ---
+---
 ID: 382
 post_title: Problem
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: http://letosaid.tk/problem/
 published: true
