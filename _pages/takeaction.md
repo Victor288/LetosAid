@@ -8,7 +8,7 @@ permalink: http://letosaid.tk/takeaction/
 published: true
 post_date: 2018-11-27 09:17:08
 ---
-<h1>TAKE ACTION,<br>USE OUR SOLUTION!</h1>		
+<h2>TAKE ACTION,<br>USE OUR SOLUTION!</h2>		
 			<h2>Our Mission</h2>		
 			<h6>To facilitate, nurture and support the safety of children</h6>		
 		<blockquote><p>Leto's Aid addresses the concern of young adolescent children without a stable trustworthy relationship at home being more susceptible to peer pressure resulting in early substance abuse issues and tendency to be reported missing</p></blockquote>		
