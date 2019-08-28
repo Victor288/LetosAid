@@ -1,8 +1,9 @@
 ---
+---
 ID: 288
 post_title: Take action
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: http://letosaid.tk/takeaction/
 published: true
