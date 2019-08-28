@@ -17,7 +17,7 @@ post_date: 2018-11-27 09:17:08
 			<a href="#" role="button">
 						Get Leto's Aid
 					</a>
-		<p>Leto's Aid is compatible with any android 9 device.  For more details on getting started with the application, check out the short tutorial below.</p>https://www.youtube.com/watch?v=XHOmBV4js_E		
+		<p style="text-align: center;">Leto's Aid is compatible with any android 9 device.  For more details on getting started with the application, check out the short tutorial below.</p>https://www.youtube.com/watch?v=XHOmBV4js_E		
 			<a href="#top" role="button">
 						Back to Top
 					</a>
