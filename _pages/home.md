@@ -1,8 +1,9 @@
 ---
+---
 ID: 287
 post_title: Home
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: http://letosaid.tk/
 published: true

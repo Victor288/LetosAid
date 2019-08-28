@@ -1,8 +1,9 @@
 ---
+---
 ID: 289
 post_title: Contact
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: http://letosaid.tk/contact/
 published: true

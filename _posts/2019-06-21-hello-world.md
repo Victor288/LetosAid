@@ -1,8 +1,9 @@
 ---
+---
 ID: 1
 post_title: Hello world!
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: post
 permalink: >
   http://letosaid.tk/2019/06/21/hello-world/
