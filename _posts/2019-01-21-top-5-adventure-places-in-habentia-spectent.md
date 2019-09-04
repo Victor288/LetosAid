@@ -1,14 +1,13 @@
 ---
----
 ID: 277
 post_title: >
   Top 5 Adventure Places In Habentia
   Spectent
 author: user
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
-  http://letosaid.tk/2019/01/21/top-5-adventure-places-in-habentia-spectent/
+  https://letosaid.cf/2019/01/21/top-5-adventure-places-in-habentia-spectent/
 published: true
 post_date: 2019-01-21 06:37:37
 ---
