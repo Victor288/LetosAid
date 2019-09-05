@@ -1,10 +1,11 @@
 ---
+---
 ID: 289
 post_title: Take Action
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
-permalink: https://letosaid.cf/takeaction/
+permalink: http://letosaid.cf/takeaction/
 published: true
 post_date: 2018-11-27 09:17:28
 ---
