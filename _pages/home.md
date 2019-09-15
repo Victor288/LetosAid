@@ -1,10 +1,11 @@
 ---
+---
 ID: 287
 post_title: Home
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
-permalink: https://letosaid.cf/
+permalink: http://www.letosaid.cf/
 published: true
 post_date: 2018-11-27 09:16:54
 ---
