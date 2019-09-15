@@ -10,7 +10,7 @@ published: true
 post_date: 2018-11-27 09:16:54
 ---
 <img width="1529" height="1228" src="http://www.letosaid.cf/wp-content/uploads/2019/09/IMG_4702-copy.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/IMG_4702-copy.png 1529w, https://www.letosaid.cf/wp-content/uploads/2019/09/IMG_4702-copy-300x241.png 300w, https://www.letosaid.cf/wp-content/uploads/2019/09/IMG_4702-copy-768x617.png 768w, https://www.letosaid.cf/wp-content/uploads/2019/09/IMG_4702-copy-1024x822.png 1024w" sizes="(max-width: 1529px) 100vw, 1529px" />											
-										<img width="417" height="90" src="http://www.letosaid.cf/wp-content/uploads/2019/09/1568545545_409314.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/1568545545_409314.png 417w, https://www.letosaid.cf/wp-content/uploads/2019/09/1568545545_409314-300x65.png 300w" sizes="(max-width: 417px) 100vw, 417px" />											
+										<img width="483" height="238" src="http://www.letosaid.cf/wp-content/uploads/2019/09/BE20751E-C928-47FC-B9BE-BDCF60DC0203-3-copy.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/BE20751E-C928-47FC-B9BE-BDCF60DC0203-3-copy.png 483w, https://www.letosaid.cf/wp-content/uploads/2019/09/BE20751E-C928-47FC-B9BE-BDCF60DC0203-3-copy-300x148.png 300w" sizes="(max-width: 483px) 100vw, 483px" />											
 			<h2>Introducing LEto's aid</h2>		
 		https://youtu.be/B8pnzX6HoDM		
 			<a href="#top" role="button">
