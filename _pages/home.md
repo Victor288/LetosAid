@@ -182,7 +182,7 @@ post_date: 2018-11-27 09:16:54
 				</h3>
 								<p>All data collected is strictly used only to improve your experience with your child via App's suggestions.  No third party tie-ups whatsoever.  Your privacy is our utmost priority!</p>
 			<h2>User Journey</h2>		
-										<img width="820" height="312" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-300x114.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-768x292.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
+										<img width="950" height="330" src="http://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7.png 950w, https://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7-300x104.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7-768x267.png 768w" sizes="(max-width: 950px) 100vw, 950px" />											
 			<h2>Experience Leto's Aid</h2>		
 		https://www.youtube.com/watch?v=P1I5cWtp6ao&#038;rel=0		
 										<img width="820" height="500" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-300x183.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-768x468.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
