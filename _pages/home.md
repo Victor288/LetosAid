@@ -19,11 +19,11 @@ post_date: 2018-11-27 09:16:54
 				<h3>
 					Easy Sign-up
 				</h3>
-								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
+								<p>3 easy steps to sign up from downloading the application to receiving customized activity suggestions.  No hassle of a tedious registration process.  The average time taken for initial sign up is 10 minutes!</p>
 				<h3>
 					Convenient UI
 				</h3>
-								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
+								<p>Simple &amp; efficient user interface design enabling new and experienced users to manage their tasks on the App swiftly.  Navigating the App is as simple as the sign up!</p>
 				<h3>
 					Customized Suggestions
 				</h3>
@@ -31,7 +31,7 @@ post_date: 2018-11-27 09:16:54
 				<h3>
 					Transparent Data Policy
 				</h3>
-								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
+								<p>All data collected is strictly used only to improve your experience with your child via App's suggestions.  No third party tie-ups whatsoever.  Your privacy is our utmost priority!</p>
 			<h2>User Journey</h2>		
 										<img width="820" height="312" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-300x114.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-768x292.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
 			<h2>Experience Leto's Aid</h2>		
