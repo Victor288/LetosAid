@@ -17,19 +17,19 @@ post_date: 2018-11-27 09:16:54
 		Adolescent children tend to distance themselves from parents and have a higher tendency to yield to peer pressure. As of 2016,<ul><li>Sole-parent families constitute to 14% of Australian families</li><li> 54% of Sole-parents are raising single children</li><li>40% of children in Sole-parent families have reported issues of physical/emotional maltreatment</li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>Leto's Aid Offers</h2>		
 				<h3>
-					Brand Strategy
+					Easy Sign-up
 				</h3>
 								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
 				<h3>
-					Brand Strategy
+					Convenient UI
 				</h3>
 								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
 				<h3>
-					Brand Strategy
+					Customized Suggestions
 				</h3>
 								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
 				<h3>
-					Brand Strategy
+					Transparent Data Policy
 				</h3>
 								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
 			<h2>User Journey</h2>		
