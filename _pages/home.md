@@ -37,7 +37,7 @@ post_date: 2018-11-27 09:16:54
 			<h2>Experience Leto's Aid</h2>		
 		https://www.youtube.com/watch?v=P1I5cWtp6ao&#038;rel=0		
 										<img width="820" height="500" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-300x183.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-768x468.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
-			<a href="#" role="button">
+			<a href="http://letosaid.cf/wp-content/uploads/dlm_uploads/2019/09/app-release.apk" role="button">
 						Download Leto's Aid 
 					</a>
 			<a href="#top" role="button">
