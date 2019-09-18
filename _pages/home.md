@@ -30,8 +30,12 @@ post_date: 2018-11-27 09:16:54
 					Brand Strategy
 				</h3>
 								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
-		<p>WORKFLOW -&gt; TEMPORARY HEADING - TO BE REMOVED AFTER THE CONTENT IN THE TWO PANES BELOW ARE ADDED</p>https://www.youtube.com/watch?v=P1I5cWtp6ao&#038;rel=0<p style="text-align: center;">Download Leto's Aid Here </p>		
-										<img width="280" height="300" src="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png 280w, https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-768x824.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1.png 893w" sizes="(max-width: 280px) 100vw, 280px" />											
+										<img width="820" height="312" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-300x114.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-768x292.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
+		<p>WORKFLOW -&gt; TEMPORARY HEADING - TO BE REMOVED AFTER THE CONTENT IN THE TWO PANES BELOW ARE ADDED</p>https://www.youtube.com/watch?v=P1I5cWtp6ao&#038;rel=0		
+										<img width="820" height="500" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-300x183.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-768x468.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
+			<a href="#" role="button">
+						Download Leto's Aid 
+					</a>
 		<p>DOWNLOAD -&gt; TEMPORARY HEADING - TO BE REMOVED AFTER THE CONTENT IN THE TWO PANES BELOW ARE ADDED</p><p>DETAILS ABOUT THE APK, COMPATIBILITY ETC TO BE ADDED HERE</p><p>PHONE IMAGE WITH THE QR CODE HERE + ADD A BUTTON  FOR DIRECT APK DOWNLOAD</p>		
 			<a href="#top" role="button">
 						Back to top
