@@ -27,7 +27,7 @@ post_date: 2018-11-27 09:16:54
 				<h3>
 					Customized Suggestions
 				</h3>
-								<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.</p>
+								<p>Provides highly customized activity suggestions that you could perform with your child based on the quick survey about you and your child.  Flexibility to update your leisure time for the coming week!</p>
 				<h3>
 					Transparent Data Policy
 				</h3>
