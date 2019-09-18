@@ -15,7 +15,7 @@ post_date: 2018-11-27 09:16:54
 		<p>We create<b> customized &amp; convenient</b> opportunities to forge everlasting parent-child memories!</p>		
 			<h2>What is the problem?</h2>		
 		Adolescent children tend to distance themselves from parents and have a higher tendency to yield to peer pressure. As of 2016,<ul><li>Sole-parent families constitute to 14% of Australian families</li><li> 54% of Sole-parents are raising single children</li><li>40% of children in Sole-parent families have reported issues of physical/emotional maltreatment</li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
-			<h2>Our Solution - change</h2>		
+			<h2>What is the problem?</h2>		
 				<h3>
 					Brand Strategy
 				</h3>
