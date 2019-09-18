@@ -14,7 +14,7 @@ post_date: 2018-11-27 09:16:54
 			<h2>with your child </h2>		
 		<p>PROBLEM -&gt; TEMPORARY HEADING - TO BE REMOVED AFTER THE CONTENT IN THE TWO PANES BELOW ARE ADDED</p>		
 			<h2>What is the problem?</h2>		
-		<p>As of 2016,</p><ul><li>Sole-parent families constitute to 14% of Australian families</li><li>65% of Sole-parent families have at least 1 child under the age of 17</li><li> 54% of Sole-parents are raising single children</li><li>40% of children in Sole-parent families have reported issues of physical/emotional maltreatment</li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
+		Adolescent children tend to distance themselves from parents and have a higher tendency to yield to peer pressure. As of 2016,<ul><li>Sole-parent families constitute to 14% of Australian families</li><li> 54% of Sole-parents are raising single children</li><li>40% of children in Sole-parent families have reported issues of physical/emotional maltreatment</li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>Our Solution - change</h2>		
 				<h3>
 					Brand Strategy
