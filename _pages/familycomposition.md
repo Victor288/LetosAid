@@ -1,8 +1,9 @@
 ---
+---
 ID: 525
 post_title: Family Composition
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: https://letosaid.cf/familycomposition/
 published: true

@@ -1,8 +1,9 @@
 ---
+---
 ID: 288
 post_title: The Problem
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: https://letosaid.cf/problem/
 published: true

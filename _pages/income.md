@@ -1,10 +1,11 @@
 ---
+---
 ID: 533
 post_title: Income
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/income/
+permalink: https://letosaid.cf/income/
 published: true
 post_date: 2019-09-04 16:23:47
 ---

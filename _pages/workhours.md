@@ -1,8 +1,9 @@
 ---
+---
 ID: 535
 post_title: Work Hours
 author: user
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: https://letosaid.cf/workhours/
 published: true
