@@ -12,7 +12,14 @@ post_date: 2018-11-27 09:16:54
 <img width="1024" height="822" src="http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 										<img width="472" height="315" src="http://letosaid.cf/wp-content/uploads/2019/09/stay-c-3.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/stay-c-3.png 472w, https://letosaid.cf/wp-content/uploads/2019/09/stay-c-3-300x200.png 300w" sizes="(max-width: 472px) 100vw, 472px" />											
 			<h2>What is the Problem?</h2>		
-		Adolescent children tend to distance themselves from parents and have a higher tendency to yield to peer pressure. As of 2016,<ul><li>Sole-parent families constitute to <b>14%</b> of Australian families</li><li>54% of Sole-parents are raising single children</li><li>40% of children in Sole-parent families have reported issues of physical/emotional maltreatment</li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
+		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>.
+&nbsp;
+As of 2016,
+<ul>
+<li>Sole-parent families constitute to <b>14%</b> of Australian families</li>
+<li><b>54%</b> of Sole-parents are raising single children</li>
+<li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li>
+</ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>What is Leto's Aid ? </h2>		
 		<p>Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p>Our solution supports parents like you so you can raise your children to be <b>bold</b>, <b>independent</b> and <b>self-sufficient</b> while having a <b>healthy affectionate relationship</b> with them.</p>		
 			<h2>Leto's Aid Offers</h2>		
