@@ -20,6 +20,7 @@ As of 2016,
 <li><b>54%</b> of Sole-parents are raising single children</li>
 <li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li>
 </ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
+										<img width="300" height="250" src="http://letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3-300x250.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3-300x250.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3.png 600w" sizes="(max-width: 300px) 100vw, 300px" />											
 			<h2>What is Leto's Aid ? </h2>		
 		<p>Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p>Our solution supports parents like you so you can raise your children to be <b>bold</b>, <b>independent</b> and <b>self-sufficient</b> while having a <b>healthy affectionate relationship</b> with them.</p>		
 			<h2>Leto's Aid Offers</h2>		
