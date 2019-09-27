@@ -9,18 +9,12 @@ permalink: http://www.letosaid.cf/
 published: true
 post_date: 2018-11-27 09:16:54
 ---
-<img width="1024" height="822" src="http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
-										<img width="472" height="315" src="http://letosaid.cf/wp-content/uploads/2019/09/stay-c-3.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/stay-c-3.png 472w, https://letosaid.cf/wp-content/uploads/2019/09/stay-c-3-300x200.png 300w" sizes="(max-width: 472px) 100vw, 472px" />											
-			<h2>What is the Problem?</h2>		
-		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>.
-&nbsp;
-As of 2016,
-<ul>
-<li>Sole-parent families constitute to <b>14%</b> of Australian families</li>
-<li><b>54%</b> of Sole-parents are raising single children</li>
-<li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li>
-</ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
-										<img width="300" height="250" src="http://letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3-300x250.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3-300x250.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3.png 600w" sizes="(max-width: 300px) 100vw, 300px" />											
+<img width="1024" height="822" src="http://www.letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, https://www.letosaid.cf/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, https://www.letosaid.cf/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, https://www.letosaid.cf/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="472" height="315" src="http://www.letosaid.cf/wp-content/uploads/2019/09/stay-c-3.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/stay-c-3.png 472w, https://www.letosaid.cf/wp-content/uploads/2019/09/stay-c-3-300x200.png 300w" sizes="(max-width: 472px) 100vw, 472px" />											
+		<p>Facilitating opportunities to <b>forge everlasting memories</b> with your adolescent child.</p>		
+			<h2>Losing Touch With Your Child?</h2>		
+		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>. As of 2016,<ul><li>Sole-parent families constitute to <b>14%</b> of Australian families</li><li><b>54%</b> of Sole-parents are raising single children</li><li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
+										<img width="300" height="250" src="http://www.letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3-300x250.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3-300x250.png 300w, https://www.letosaid.cf/wp-content/uploads/2019/09/E274E7B3-5FDB-434D-A167-9D9ACFEACBA3.png 600w" sizes="(max-width: 300px) 100vw, 300px" />											
 			<h2>What is Leto's Aid ? </h2>		
 		<p>Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p>Our solution supports parents like you so you can raise your children to be <b>bold</b>, <b>independent</b> and <b>self-sufficient</b> while having a <b>healthy affectionate relationship</b> with them.</p>		
 			<h2>Leto's Aid Offers</h2>		
@@ -192,10 +186,10 @@ As of 2016,
 				</h3>
 								<p>All data collected is strictly used only to improve your experience with your child via App's suggestions.  No third party tie-ups whatsoever.  Your privacy is our utmost priority!</p>
 			<h2>User Journey</h2>		
-										<img width="950" height="330" src="http://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7.png 950w, https://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7-300x104.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7-768x267.png 768w" sizes="(max-width: 950px) 100vw, 950px" />											
+										<img width="950" height="330" src="http://www.letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7.png 950w, https://www.letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7-300x104.png 300w, https://www.letosaid.cf/wp-content/uploads/2019/09/E58913A8-025C-4663-983B-663677D4B7F7-768x267.png 768w" sizes="(max-width: 950px) 100vw, 950px" />											
 			<h2>Experience Leto's Aid</h2>		
 		<p>For more details on getting started with the application, check out the short tutorial below.</p>https://www.youtube.com/watch?v=P1I5cWtp6ao&#038;rel=0		
-										<img width="820" height="500" src="http://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png 820w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-300x183.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-768x468.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
+										<img width="820" height="500" src="http://www.letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png" alt="" srcset="https://www.letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3.png 820w, https://www.letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-300x183.png 300w, https://www.letosaid.cf/wp-content/uploads/2019/09/Untitled-design-3-768x468.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
 		<p style="text-align: center;">*Leto’s Aid is compatible with any android 9 device.</p>		
 			<a href="http://letosaid.cf/wp-content/uploads/dlm_uploads/2019/09/app-release.apk" role="button">
 						Download Leto's Aid 
