@@ -5,7 +5,8 @@ post_title: Family Composition
 author: user
 post_excerpt:
 layout: page
-permalink: https://letosaid.cf/familycomposition/
+permalink: >
+  http://www.letosaid.cf/familycomposition/
 published: true
 post_date: 2019-09-04 16:10:38
 ---
