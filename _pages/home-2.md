@@ -9,11 +9,7 @@ permalink: http://letosaid.cf/
 published: true
 post_date: 2018-11-26 12:45:27
 ---
-<h5>WELCOME TO</h5>		
-			<h1>SIERRA NATURAL PARK</h1>		
-			<a href="#" role="button">
-						LEARN MORE
-					</a>
+<img width="1024" height="822" src="http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h5>about us</h5>		
 			<h2>One touch of nature makes the whole world kin</h2>		
 		<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum. </p><p><em>Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.</em></p>		
