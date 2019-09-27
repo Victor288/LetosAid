@@ -5,7 +5,7 @@ post_title: Work Hours
 author: user
 post_excerpt:
 layout: page
-permalink: https://letosaid.cf/workhours/
+permalink: http://www.letosaid.cf/workhours/
 published: true
 post_date: 2019-09-04 16:24:07
 ---
