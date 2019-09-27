@@ -5,7 +5,7 @@ post_title: Home
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/
+permalink: http://www.letosaid.cf/home/
 published: true
 post_date: 2018-11-27 09:16:54
 ---
@@ -124,7 +124,7 @@ post_date: 2018-11-27 09:16:54
 				<h3>
 					Convenient UI
 				</h3>
-								<p>Simple &amp; efficient user interface design enabling new and experienced users to manage their tasks on the App swiftly.  Navigating the App is as simple as the sign up!</p>
+								<p>Simple u0026amp; efficient user interface design enabling new and experienced users to manage their tasks on the App swiftly.  Navigating the App is as simple as the sign up!</p>
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <path style="fill:#FFD15C;" d="M314.667,391.467c6.4-21.333,19.2-40.533,36.267-55.467c32-26.667,52.267-67.2,52.267-112  c0-83.2-69.333-151.467-154.667-147.2C172.8,80,110.933,144,108.8,219.733C107.733,266.667,128,308.267,161.067,336  C179.2,350.933,192,370.133,198.4,391.467L314.667,391.467L314.667,391.467z"></path>
 <path style="fill:#FFFFFF;" d="M242.133,393.6h9.6l-42.667-158.933c1.067,0,2.133,0,3.2,0c5.333,0,10.667-2.133,14.933-6.4  c2.133-2.133,4.267-3.2,7.467-3.2c3.2,0,5.333,1.067,7.467,3.2c7.467,8.533,20.267,8.533,27.733,0c2.133-2.133,4.267-3.2,7.467-3.2  c2.133,0,5.333,1.067,7.467,3.2c4.267,4.267,8.533,6.4,14.933,6.4c1.067,0,2.133,0,3.2,0l-41.6,158.933h9.6l43.733-166.4  c0-2.133,0-4.267-2.133-5.333c-2.133-1.067-4.267,0-5.333,1.067c-2.133,2.133-4.267,3.2-6.4,3.2c-3.2,0-5.333-1.067-8.533-3.2  c-4.267-4.267-8.533-6.4-13.867-6.4s-9.6,2.133-13.867,6.4s-10.667,4.267-14.933,0c-3.2-4.267-8.533-6.4-13.867-6.4l0,0  c-5.333,0-10.667,2.133-13.867,6.4c-2.133,2.133-5.333,3.2-8.533,3.2c-2.133,0-5.333-1.067-6.4-3.2  c-1.067-1.067-3.2-2.133-5.333-1.067c-2.133,1.067-3.2,3.2-2.133,5.333L242.133,393.6z"></path>
