@@ -5,7 +5,7 @@ post_title: Income
 author: user
 post_excerpt:
 layout: page
-permalink: https://letosaid.cf/income/
+permalink: http://www.letosaid.cf/income/
 published: true
 post_date: 2019-09-04 16:23:47
 ---
