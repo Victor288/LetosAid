@@ -18,4 +18,4 @@ post_date: 2018-11-26 12:45:27
 			<h2>Losing Touch With Your Child?</h2>		
 		<p>Adolescent children tend to distance themselves from parents and have a higher tendency to yield to peer pressure.<br /><br />As of 2016,<br />Sole-parent families constitute to 14% of Australian families<br />54% of Sole-parents are raising single children<br />40% of children in Sole-parent families have reported issues of physical/emotional maltreatment</p>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>Experience Leto's Aid</h2>		
-		https://www.youtube.com/watch?v=urnwqO7RcrI&#038;list=PLI4JDXB0b6W8rpQi_Gt-g11VStiPu24jv&#038;index=6
+		<p style="text-align: center;">Leto's Aid App is compatible with any Android 9 device.  For more details on how to use Leto's Aid, check out the quick tutorial below!</p>https://www.youtube.com/watch?v=urnwqO7RcrI&#038;list=PLI4JDXB0b6W8rpQi_Gt-g11VStiPu24jv&#038;index=6
