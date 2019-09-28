@@ -16,7 +16,7 @@ post_date: 2018-11-26 12:45:27
 						Learn More
 					</a>
 			<h2>Losing Touch With Your Child?</h2>		
-		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>. As of 2016,<ul><li>Sole-parent families constitute to <b>14%</b> of Australian families</li><li><b>54%</b> of Sole-parents are raising single children</li><li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li></ul>[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
+		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>. As of 2016,<ul><li>Sole-parent families constitute to <b>14%</b> of Australian families</li><li><b>54%</b> of Sole-parents are raising single children</li><li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li></ul>&lt; add text here to ease into the re-assurance part &gt;[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>You Are Not Alone!</h2>		
 		<p style="text-align: center;">placeholder for the re-assurance section</p>		
 			<h2>Why Leto's Aid?</h2>		
@@ -27,6 +27,9 @@ post_date: 2018-11-26 12:45:27
 			<h2>How It Works..</h2>		
 		<p style="text-align: center;">placeholder for the user journey image</p>		
 			<h2>Experience Leto's Aid</h2>		
-		<p style="text-align: center;">Leto's Aid App is compatible with any Android 9 device.  For more details on how to use Leto's Aid, check out the quick tutorial below!</p>https://www.youtube.com/watch?v=urnwqO7RcrI&#038;list=PLI4JDXB0b6W8rpQi_Gt-g11VStiPu24jv&#038;index=6		
+		<ul><li style="text-align: left;">Leto's Aid App is compatible with any Android 9 device</li><li style="text-align: left;"><strong>Scan the QR Code</strong> or <strong>Click on the "Get Leto's Aid Now" button</strong> to download the .apk file</li><li style="text-align: left;">For more details on how to use Leto's Aid, check out the quick tutorial below!</li></ul>https://www.youtube.com/watch?v=urnwqO7RcrI&#038;list=PLI4JDXB0b6W8rpQi_Gt-g11VStiPu24jv&#038;index=6		
 										<img width="300" height="101" src="http://letosaid.cf/wp-content/uploads/2019/09/download-for-android-300x101.jpg" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/download-for-android-300x101.jpg 300w, https://letosaid.cf/wp-content/uploads/2019/09/download-for-android.jpg 572w" sizes="(max-width: 300px) 100vw, 300px" />											
-										<img width="280" height="300" src="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png 280w, https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-768x824.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1.png 893w" sizes="(max-width: 280px) 100vw, 280px" />
+										<img width="280" height="300" src="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png 280w, https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-768x824.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1.png 893w" sizes="(max-width: 280px) 100vw, 280px" />											
+			<a href="http://letosaid.cf/wp-content/uploads/dlm_uploads/2019/09/app-release.apk" role="button">
+						get leto's aid now
+					</a>
