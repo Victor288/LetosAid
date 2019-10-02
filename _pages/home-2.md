@@ -20,7 +20,7 @@ post_date: 2018-11-26 12:45:27
 			<h2>You Are Not Alone!</h2>		
 		<p style="text-align: center;">placeholder for the re-assurance section</p>		
 			<h2>Why Leto's Aid?</h2>		
-		<p style="text-align: center;">placeholder for the features -&gt; insert a section with 4 flipboxes</p>		
+		<p style="text-align: center;">placeholder for the features -&gt; insert a section with 4 flipboxes</p>[oxilab_flip_box id="10"][oxilab_flip_box id="10"]		
 			<h2>Behind Our Name</h2>		
 				<figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
 		<p style="font-size: 15px; font-style: normal; font-weight: 400;">Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p style="font-size: 15px; font-style: normal; font-weight: 400;">Our solution supports parents like you so you can raise your children to be bold, independent and self-sufficient while having a healthy affectionate relationship with them.</p>		
