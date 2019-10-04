@@ -18,8 +18,16 @@ post_date: 2018-11-26 12:45:27
 			<h2>Losing Touch With Your Child?</h2>		
 		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>. As of 2016,<ul><li>Sole-parent families constitute to <b>14%</b> of Australian families</li><li><b>54%</b> of Sole-parents are raising single children</li><li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li></ul>&lt; add text here to ease into the re-assurance part &gt;[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>You Are Not Alone!</h2>		
-		<p style="text-align: center;">placeholder for the re-assurance section - add the relationship test here + also add the link to the information page</p>[formidable id=2]		
+		<p style="text-align: center;">placeholder for the re-assurance section - add the relationship test here + also add the link to the information page</p><p>Image -&gt; take the relatio</p>		
 			<h2>Why Leto's Aid?</h2>		
+												<a href="">Easy to use</a>
+					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Helps you find the time to spend with your child</a>
+					Toggle Content
+												<a href="">Offers customized activity recommendations</a>
+					Toggle Content
+												<a href="">Supports you to stay connected with your child</a>
+					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 		[oxilab_flip_box id="10"][oxilab_flip_box id="10"][oxilab_flip_box id="10"][oxilab_flip_box id="10"]		
 			<h2>Behind Our Name</h2>		
 				<figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
