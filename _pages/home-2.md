@@ -20,23 +20,7 @@ post_date: 2018-11-26 12:45:27
 			<h2>You Are Not Alone!</h2>		
 		<p style="text-align: center;">placeholder for the re-assurance section - add the relationship test here + also add the link to the information page</p><p>Image -&gt; take the relatio</p>		
 			<h2>Why Leto's Aid?</h2>		
-												<a href="">Easy to use</a>
-					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Helps you find the time to spend with your child</a>
-					Toggle Content
-												<a href="">Offers customized activity recommendations</a>
-					Toggle Content
-												<a href="">Supports you to stay connected with your child</a>
-					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Easy to use</a>
-					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Helps you find the time to spend with your child</a>
-					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Offers customized activity recommendations</a>
-					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-												<a href="">Supports you to stay connected with your child</a>
-					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-		[oxilab_flip_box id="11"][oxilab_flip_box id="10"][oxilab_flip_box id="12"][oxilab_flip_box id="10"]		
+		[oxilab_flip_box id="11"][oxilab_flip_box id="14"][oxilab_flip_box id="12"][oxilab_flip_box id="13"]		
 			<h2>Behind Our Name</h2>		
 				<figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/09/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/09/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
 		<p style="font-size: 15px; font-style: normal; font-weight: 400;">Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p style="font-size: 15px; font-style: normal; font-weight: 400;">Our solution supports parents like you so you can raise your children to be bold, independent and self-sufficient while having a healthy affectionate relationship with them.</p>		
