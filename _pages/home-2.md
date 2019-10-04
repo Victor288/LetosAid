@@ -28,6 +28,14 @@ post_date: 2018-11-26 12:45:27
 					Toggle Content
 												<a href="">Supports you to stay connected with your child</a>
 					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Easy to use</a>
+					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Helps you find the time to spend with your child</a>
+					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Offers customized activity recommendations</a>
+					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Supports you to stay connected with your child</a>
+					Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 		[oxilab_flip_box id="10"][oxilab_flip_box id="10"][oxilab_flip_box id="10"][oxilab_flip_box id="10"]		
 			<h2>Behind Our Name</h2>		
 				<figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
