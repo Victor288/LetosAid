@@ -21,6 +21,9 @@ post_date: 2018-11-26 12:45:27
 		<p style="text-align: center;">placeholder for the re-assurance section - add the relationship test here + also add the link to the information page</p><p>Image -&gt; take the relatio</p>		
 			<h2>Why Leto's Aid?</h2>		
 		[oxilab_flip_box id="11"][oxilab_flip_box id="14"][oxilab_flip_box id="12"][oxilab_flip_box id="13"]		
+			<h2>Behind the Name</h2>		
+				<figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/10/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://www.letosaid.cf/wp-content/uploads/2019/10/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
+		<p style="font-size: 15px; font-style: normal; font-weight: 400;">Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p style="font-size: 15px; font-style: normal; font-weight: 400;">Our solution supports parents like you so you can raise your children to be bold, independent and self-sufficient while having a healthy affectionate relationship with them.</p>		
 			<h2>How It Works</h2>		
 		[infogram id="dd39e4f3-2ea0-4f8a-8c5d-3ec5f91dfe8c" prefix="ppC" format="interactive" title="user journey"]		
 			<h2>Experience Leto's Aid</h2>		
