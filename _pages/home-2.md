@@ -10,7 +10,7 @@ published: true
 post_date: 2018-11-26 12:45:27
 ---
 <img width="1024" height="822" src="http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, https://letosaid.cf/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
-										<img width="1024" height="628" src="http://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-1024x628.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-1024x628.png 1024w, https://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-300x184.png 300w, https://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-768x471.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="768" height="471" src="http://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-768x471.png" alt="" srcset="https://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-768x471.png 768w, https://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-300x184.png 300w, https://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-1024x628.png 1024w" sizes="(max-width: 768px) 100vw, 768px" />											
 		<p style="text-align: center;">Facilitating<strong> opportunities to forge everlasting memories </strong>with your adolescent child.</p>		
 			<a href="#problem" role="button">
 						Learn More
