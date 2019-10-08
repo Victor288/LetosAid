@@ -18,7 +18,7 @@ post_date: 2018-11-26 12:45:27
 			<h2>Losing Touch With Your Child?</h2>		
 		Adolescent children tend to <b>distance</b> themselves from parents and have a higher tendency to yield to <b>peer pressure</b>. As of 2016,<ul><li>Sole-parent families constitute to <b>14%</b> of Australian families</li><li><b>54%</b> of Sole-parents are raising single children</li><li><b>40%</b> of children in Sole-parent families have reported issues of <b>physical/emotional maltreatment</b></li></ul>&lt; add text here to ease into the re-assurance part &gt;[infogram id="fbd2edbb-6f1b-4027-8471-17d324969dba" prefix="AAJ" format="interactive" title="Problem - Stats"]		
 			<h2>You Are Not Alone!</h2>		
-		<p style="text-align: center;">placeholder for the re-assurance section - add the relationship test here + also add the link to the information page</p><p>Image -&gt; take the relatio</p>		
+		<p style="text-align: center;">placeholder for the re-assurance section - add the relationship test here + also add the link to the information page</p>[infogram id="908b9a31-60f9-4a3d-936f-4bb19adb8350" prefix="fUa" format="interactive" title="Focus Areas"]		
 			<h2>Why Leto's Aid?</h2>		
 		[oxilab_flip_box id="11"][oxilab_flip_box id="14"][oxilab_flip_box id="12"][oxilab_flip_box id="13"]		
 			<h2>Behind the Name</h2>		
