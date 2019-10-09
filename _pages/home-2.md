@@ -9,8 +9,8 @@ permalink: http://letosaid.cf/
 published: true
 post_date: 2018-11-26 12:45:27
 ---
-<img width="1024" height="822" src="http://52.63.211.4/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="http://52.63.211.4/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, http://52.63.211.4/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, http://52.63.211.4/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, http://52.63.211.4/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
-										<img width="768" height="471" src="http://52.63.211.4/wp-content/uploads/2019/10/stay-5-1-768x471.png" alt="" srcset="http://52.63.211.4/wp-content/uploads/2019/10/stay-5-1-768x471.png 768w, http://52.63.211.4/wp-content/uploads/2019/10/stay-5-1-300x184.png 300w, http://52.63.211.4/wp-content/uploads/2019/10/stay-5-1-1024x628.png 1024w" sizes="(max-width: 768px) 100vw, 768px" />											
+<img width="1024" height="822" src="http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png" alt="" srcset="http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-1024x822.png 1024w, http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-300x241.png 300w, http://letosaid.cf/wp-content/uploads/2019/09/web-no-back-768x617.png 768w, http://letosaid.cf/wp-content/uploads/2019/09/web-no-back.png 1529w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+										<img width="768" height="471" src="http://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-768x471.png" alt="" srcset="http://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-768x471.png 768w, http://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-300x184.png 300w, http://letosaid.cf/wp-content/uploads/2019/10/stay-5-1-1024x628.png 1024w" sizes="(max-width: 768px) 100vw, 768px" />											
 		<p style="text-align: center;">Facilitating<strong> opportunities to forge everlasting memories </strong>with your adolescent child.</p>		
 			<a href="#problem" role="button">
 						Learn More
@@ -22,7 +22,7 @@ post_date: 2018-11-26 12:45:27
 			<h2>Why Leto's Aid?</h2>		
 		[oxilab_flip_box id="11"][oxilab_flip_box id="14"][oxilab_flip_box id="12"][oxilab_flip_box id="13"]		
 			<h2>Behind the Name</h2>		
-				<figure><img src="http://52.63.211.4/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://52.63.211.4/wp-content/uploads/2019/10/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://52.63.211.4/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://52.63.211.4/wp-content/uploads/2019/10/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
+				<figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/adult-child-daughter-1683975-768x512.jpg" alt="adult-child-daughter-1683975" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/10/adult-baby-casual-236164-768x512.jpg" alt="adult-baby-casual-236164" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/09/child-dad-daughter-139389-768x512.jpg" alt="child-dad-daughter-139389" /></figure><figure><img src="http://letosaid.cf/wp-content/uploads/2019/10/art-backlit-beach-256807-768x511.jpg" alt="art-backlit-beach-256807" /></figure>			
 						Previous
 						Next
 		<p style="font-size: 15px; font-style: normal; font-weight: 400;">Leto is the Greek goddess of motherhood. Her story goes that she was exiled to an island far away when she was pregnant. She gave birth to twin children and raised them to be warriors all by herself. Both her sons defended her and ensured to restore their mother to her full glory in Olympus.</p><p style="font-size: 15px; font-style: normal; font-weight: 400;">Our solution supports parents like you so you can raise your children to be bold, independent and self-sufficient while having a healthy affectionate relationship with them.</p>		
@@ -30,10 +30,10 @@ post_date: 2018-11-26 12:45:27
 		[infogram id="dd39e4f3-2ea0-4f8a-8c5d-3ec5f91dfe8c" prefix="ppC" format="interactive" title="user journey"]		
 			<h2>Experience Leto's Aid</h2>		
 		<ul><li style="text-align: left;">Leto's Aid App is compatible with any Android 9 device</li><li style="text-align: left;"><strong>Scan the QR Code</strong> or <strong>Click on the "Get Leto's Aid Now" button</strong> to download the .apk file</li><li style="text-align: left;">For more details on how to use Leto's Aid, check out the quick tutorial below!</li></ul>		
-										<img width="300" height="101" src="http://52.63.211.4/wp-content/uploads/2019/09/download-for-android-300x101.jpg" alt="" srcset="http://52.63.211.4/wp-content/uploads/2019/09/download-for-android-300x101.jpg 300w, http://52.63.211.4/wp-content/uploads/2019/09/download-for-android.jpg 572w" sizes="(max-width: 300px) 100vw, 300px" />											
+										<img width="300" height="101" src="http://letosaid.cf/wp-content/uploads/2019/09/download-for-android-300x101.jpg" alt="" srcset="http://letosaid.cf/wp-content/uploads/2019/09/download-for-android-300x101.jpg 300w, http://letosaid.cf/wp-content/uploads/2019/09/download-for-android.jpg 572w" sizes="(max-width: 300px) 100vw, 300px" />											
 		https://youtu.be/1ACbZAitanE		
-										<img width="280" height="300" src="http://52.63.211.4/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png" alt="" srcset="http://52.63.211.4/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png 280w, http://52.63.211.4/wp-content/uploads/2019/09/qr-phone-2-1-768x824.png 768w, http://52.63.211.4/wp-content/uploads/2019/09/qr-phone-2-1.png 893w" sizes="(max-width: 280px) 100vw, 280px" />											
-			<a href="http://letosaid.cf/wp-content/uploads/dlm_uploads/2019/09/app-release.apk" role="button">
+										<img width="280" height="300" src="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png" alt="" srcset="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png 280w, http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-768x824.png 768w, http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1.png 893w" sizes="(max-width: 280px) 100vw, 280px" />											
+			<a href="http://letosaid.cf/wp-content/uploads/dlm_uploads/2019/10/letos-aid.apk" role="button">
 						get leto's aid now
 					</a>
 			<a href="#top" role="button">
