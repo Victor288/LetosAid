@@ -5,7 +5,7 @@ post_title: The Problem
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/problem/
+permalink: http://52.63.211.4/problem/
 published: true
 post_date: 2018-11-27 09:17:08
 ---

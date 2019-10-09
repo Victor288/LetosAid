@@ -5,7 +5,7 @@ post_title: Blog
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/blog-2/
+permalink: http://52.63.211.4/blog-2/
 published: true
 post_date: 2018-12-26 06:52:16
 ---

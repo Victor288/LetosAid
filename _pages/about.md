@@ -5,7 +5,7 @@ post_title: About
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/about/
+permalink: http://52.63.211.4/about/
 published: true
 post_date: 2018-11-26 12:45:57
 ---

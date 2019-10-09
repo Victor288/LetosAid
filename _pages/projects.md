@@ -5,7 +5,7 @@ post_title: Projects
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/projects/
+permalink: http://52.63.211.4/projects/
 published: true
 post_date: 2018-11-26 12:46:44
 ---

@@ -5,7 +5,7 @@ post_title: Contact
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/contact/
+permalink: http://52.63.211.4/contact/
 published: true
 post_date: 2018-11-26 12:47:06
 ---

@@ -8,7 +8,7 @@ author: user
 post_excerpt:
 layout: post
 permalink: >
-  https://letosaid.cf/2019/01/21/top-5-adventure-places-in-habentia-spectent/
+  http://52.63.211.4/2019/01/21/top-5-adventure-places-in-habentia-spectent/
 published: true
 post_date: 2019-01-21 06:37:37
 ---

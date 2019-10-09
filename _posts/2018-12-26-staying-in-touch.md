@@ -6,7 +6,7 @@ author: user
 post_excerpt:
 layout: post
 permalink: >
-  http://www.letosaid.cf/2018/12/26/staying-in-touch/
+  http://52.63.211.4/2018/12/26/staying-in-touch/
 published: true
 post_date: 2018-12-26 08:40:54
 ---

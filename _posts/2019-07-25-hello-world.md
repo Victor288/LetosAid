@@ -6,7 +6,7 @@ author: user
 post_excerpt:
 layout: post
 permalink: >
-  https://letosaid.cf/2019/07/25/hello-world/
+  http://52.63.211.4/2019/07/25/hello-world/
 published: true
 post_date: 2019-07-25 15:31:22
 ---

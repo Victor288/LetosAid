@@ -5,7 +5,7 @@ post_title: Family Incidents
 author: user
 post_excerpt:
 layout: page
-permalink: http://www.letosaid.cf/incidents/
+permalink: http://52.63.211.4/incidents/
 published: true
 post_date: 2019-09-04 16:24:31
 ---
