@@ -33,7 +33,7 @@ post_date: 2018-11-26 12:45:27
 										<img width="300" height="101" src="http://letosaid.cf/wp-content/uploads/2019/09/download-for-android-300x101.jpg" alt="" srcset="http://letosaid.cf/wp-content/uploads/2019/09/download-for-android-300x101.jpg 300w, http://letosaid.cf/wp-content/uploads/2019/09/download-for-android.jpg 572w" sizes="(max-width: 300px) 100vw, 300px" />											
 		https://youtu.be/1ACbZAitanE		
 										<img width="280" height="300" src="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png" alt="" srcset="http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-280x300.png 280w, http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1-768x824.png 768w, http://letosaid.cf/wp-content/uploads/2019/09/qr-phone-2-1.png 893w" sizes="(max-width: 280px) 100vw, 280px" />											
-			<a href="http://letosaid.cf/wp-content/uploads/dlm_uploads/2019/10/letos-aid.apk" role="button">
+			<a href="http://letosaid.cf/wp-content/uploads/2019/10/letosaid.apk" role="button">
 						get leto's aid now
 					</a>
 			<a href="#top" role="button">
